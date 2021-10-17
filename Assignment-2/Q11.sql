@@ -1,0 +1,1 @@
+select * from products where(type="electronics" and price>=10000 and price<=20000);

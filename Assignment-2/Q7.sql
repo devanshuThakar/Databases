@@ -1,0 +1,1 @@
+select retailer_name, retailer_emal from retailers where retailer_city="Ahmedabad";

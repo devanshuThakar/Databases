@@ -1,0 +1,1 @@
+select * from products where date_added>"2011-11-11";

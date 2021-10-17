@@ -1,0 +1,1 @@
+ select * from products where(date_launch > "2009-12-31" and type="novels");
